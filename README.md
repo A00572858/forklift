@@ -2,7 +2,7 @@
 
 The project is a Deep Learning model that predicts wether an image is a forklif or not.
 
-<img src="Images/forklift.jpg" alt="drawing" width="30%"/>
+<img src="Images/forklift.jpg" alt="drawing" width="50%"/>
 
 
 The model is built using the transfer learning concept, based on VGG-16 (weighted with imagenet) without the head, it is then trained, validated and tested with pictures of forklifts (about 1,000) and extending the training data using data augmentation, as well as with pictures of different cars (about 1,500) also, with data augmentation.
