@@ -1,6 +1,6 @@
 # Forklift Certified
 
-The project is a Deep Learning model that predicts wether an image is a forklif or not.
+## The project is a Deep Learning model that predicts wether an image is a forklif or not.
 
 <img src="Images/forklift.jpg" alt="drawing" width="50%"/>
 
