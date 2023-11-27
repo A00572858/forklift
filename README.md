@@ -15,3 +15,7 @@ The model reached a max training accuracy of 100%, while giving us a max validat
 
 The next is the model summary which can be found, along with the whole code of the solution in [this jupyter notebook](https://github.com/A00572858/forklift/blob/main/forkliftCertified.ipynb) within this repository.
 <img src="Images/modelSummary.PNG" alt="drawing" width="50%"/>
+
+The weights of the model could not be downloaded into this repository for exceeding memory capacity, but it can be found [here](https://drive.google.com/file/d/1-0ZR4h_5TvBlVP4Pr_0Q9F-WqL9iYzZG/view?usp=sharing) if needed.
+
+In conclusion, the transfer learning is an amazing technique for overall model training, it is important to understand how it works and how to specialize your own model using this tools nd libraries as well as to improve the model. This is an example of how to implement a framework for machine learning, evaluate its performance with real world data and generate predictions with the saved model, further steps for this project, as mentioned above, are to improve its performance by changing the structure of the model and/or training metadata.
