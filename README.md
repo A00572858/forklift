@@ -14,6 +14,7 @@ The model reached a max training accuracy of 100%, while giving us a max validat
 <img src="Images/modelLoss.png" alt="drawing" width="40%"/><img src="Images/modelAcc.png" alt="drawing" width="40%"/>
 
 The next is the model summary which can be found, along with the whole code of the solution in [this jupyter notebook](https://github.com/A00572858/forklift/blob/main/forkliftCertified.ipynb) within this repository.
+
 <img src="Images/modelSummary.PNG" alt="drawing" width="50%"/>
 
 The weights of the model could not be downloaded into this repository for exceeding memory capacity, but it can be found [here](https://drive.google.com/file/d/1-0ZR4h_5TvBlVP4Pr_0Q9F-WqL9iYzZG/view?usp=sharing) if needed.
